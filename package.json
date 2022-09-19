@@ -1,0 +1,27 @@
+{
+  "name": "@trunx-io/ipc-client",
+  "version": "1.0.1",
+  "description": "IPC Client used to connect to the TrunxIO Wallet Service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trunx-IO/ipc-client.git"
+  },
+  "keywords": [
+    "trunx",
+    "wallet",
+    "eosio",
+    "crypto",
+    "ipc"
+  ],
+  "author": "@netuoso (Andrew Chaney)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trunx-IO/ipc-client/issues"
+  },
+  "homepage": "https://github.com/Trunx-IO/ipc-client#readme",
+  "dependencies": {
+    "node-ipc": "^9.1.4",
+    "uuid": "^8.3.2"
+  }
+}
